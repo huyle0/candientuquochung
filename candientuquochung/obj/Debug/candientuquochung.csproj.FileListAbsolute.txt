@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\candientuquochung\candientuquochung\bin\Debug\candientuquochung.exe.config
+C:\Users\Administrator\source\repos\candientuquochung\candientuquochung\bin\Debug\candientuquochung.exe
+C:\Users\Administrator\source\repos\candientuquochung\candientuquochung\bin\Debug\candientuquochung.pdb
+C:\Users\Administrator\source\repos\candientuquochung\candientuquochung\obj\Debug\candientuquochung.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\candientuquochung\candientuquochung\obj\Debug\candientuquochung.frmmain.resources
+C:\Users\Administrator\source\repos\candientuquochung\candientuquochung\obj\Debug\candientuquochung.Properties.Resources.resources
+C:\Users\Administrator\source\repos\candientuquochung\candientuquochung\obj\Debug\candientuquochung.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\candientuquochung\candientuquochung\obj\Debug\candientuquochung.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\candientuquochung\candientuquochung\obj\Debug\candientuquochung.exe
+C:\Users\Administrator\source\repos\candientuquochung\candientuquochung\obj\Debug\candientuquochung.pdb
+C:\Users\Administrator\source\repos\candientuquochung\candientuquochung\obj\Debug\candientuquochung.frmdangnhap.resources
+C:\Users\Administrator\source\repos\candientuquochung\candientuquochung\obj\Debug\candientuquochung.frmchuongtrinh.resources
